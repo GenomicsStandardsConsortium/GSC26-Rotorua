@@ -10,21 +10,32 @@
 ############################
 
 # Name of website
-title: My website
+title: GSC26: The 21st international meeting of the Genomic Standards Consortium.
 
 # Your name to show in the footer
-author: Some Person
+author: Genomic Standards Consortium
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About: 
+    - Home: "index"
+    - General Information: "pages/about"
+    - Organizing committee: "pages/organizers"
+  Registration: "pages/registration"
+  Sponsors: "pages/sponsors"
+  Agenda: 
+    - Online Agenda: "pages/schedule"
+    - Keynote Speakers: "pages/keynotes"
+  Location:
+    - Venue: "pages/venue"
+    - Hotels: "pages/hotels"
+    - Transportation: "pages/transport"
+    - Tourist Information: "pages/tourism"
+  Contact: "pages/contact"
+
 
 ################
 # --- Logo --- #
@@ -32,14 +43,14 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+# avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: "/assets/img/gsc_logo_sml.png"
 
 
 #####################################
@@ -50,17 +61,17 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  email: "gsc26-auckland-organisers@googlegroups.com"
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  facebook: Genomic Standards Consortium (GSC)
+  github: GenomicsStandardsConsortium
+  twitter: genomestandards
+#  patreon: DeanAttali
+#  youtube: "@daattali"
+#  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-#  linkedin: daattali
+  linkedin: groups/6967350
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -73,7 +84,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  bluesky: yourname
+  bluesky: genomicstandards.bsky.social
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
@@ -86,7 +97,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
@@ -102,7 +113,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "GSC26-Auckland-meeting"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -128,7 +139,8 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "GSC,Genomic,Standards,Scientific meeting,conference,metagenomics,microbiome,reproducibility,metadata"
+
 
 ######################################
 # --- Colours / background image --- #
@@ -153,7 +165,7 @@ footer-hover-col: "#0085A1"
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
-#page-img: "/assets/img/bgimage.png"
+page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
@@ -260,7 +272,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "GMT"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
