@@ -61,7 +61,7 @@ title-img: "/assets/img/gsc_logo_sml.png"
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "gsc26-auckland-organisers@googlegroups.com"
+  email: "gsc26-rotorua-organisers@googlegroups.com"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: Genomic Standards Consortium (GSC)
   github: GenomicsStandardsConsortium
@@ -113,7 +113,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "GSC26-Auckland-meeting"
+url-pretty: "GSC26-Rotorua-meeting"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
