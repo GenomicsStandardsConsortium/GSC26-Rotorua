@@ -72,7 +72,7 @@ The details below are from the GSC25 meeting and serve as a guide that will be r
 10.	Sponsor representative to join GSC board for GSC25 board dinner.
 
 ## Custom Sponsorships
-Custom sponsorships are available, such as add-ons, partial upgrades, and event sponsorships. Please let us know your needs by contacting the <a href="mailto:gsc26-auckland-organisers@googlegroups.com?subject=GSC26 Auckland sponsorship">GSC26 organising committee.</a> We are happy to accommodate!
+Custom sponsorships are available, such as add-ons, partial upgrades, and event sponsorships. Please let us know your needs by contacting the <a href="mailto:gsc26-rotorua-organisers@googlegroups.com?subject=GSC26 Rotorua sponsorship">GSC26 organising committee.</a> We are happy to accommodate!
 
 
 
