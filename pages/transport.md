@@ -5,10 +5,10 @@ cover-img: /assets/img/transport.jpg
 share-img: /assets/img/transport.jpg
 ---
 
-# International travel to Auckland
+# International travel to Rotorua via Auckland 
 
 
-# Getting around Auckland
+# Getting around New Zealand
 
 
 ## [About Genomic Standards Consortium](https://www.gensc.org/)
