@@ -7,7 +7,7 @@ share-img: /assets/img/
 
 # Contact us
 
-To contact the organizing committee please <a href="mailto:gsc26-auckland-organisers@googlegroups.com?subject=GSC26 Auckland">email us</a>.
+To contact the organizing committee please <a href="mailto:gsc26-rotorua-organisers@googlegroups.com?subject=GSC26 Rotorua">email us</a>.
 
 
 
