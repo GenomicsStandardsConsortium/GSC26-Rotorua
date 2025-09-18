@@ -5,7 +5,7 @@ cover-img: /assets/img/keynote-banner.png
 share-img: /assets/img/keynote-banner.png
 ---
 
-# Keynote Speakers
+# Keynote Speakers (TBD)
 
 We are pleased to announce that we have the following confirmed keynote speakers:
 
@@ -20,6 +20,9 @@ We are pleased to announce that we have the following confirmed keynote speakers
 ## keynote 3
 
 <img align="left" src="../images/to-be-announced.jpg" style="margin-right:10px">
+
+
+
 
 
 # Dawn Field Awardee 
@@ -44,7 +47,7 @@ Yet to be decided -
 *[Savvas Paragkamian](https://www.linkedin.com/in/savvas-paragkamian-741538182)* at University of Crete for his contributions to the analysis of the GSC's 1st Island Sampling day data (see GSC's [ISD GitHub](https://github.com/GenomicsStandardsConsortium/ISD)) .
 
 2025
-TBA
+*[James Fellows Yates](https://www.linkedin.com/in/james-fellows-yates-999859179/)* at the Leibniz Institute for Natural Product Research and Infection Biology for his contributions to significant contributions to the genomic standards and ancientDNA communities and the development of the MInAS (Minimum Information about any Ancient Sequence) project.
 
 
 ### [About Genomic Standards Consortium](https://www.gensc.org/)
