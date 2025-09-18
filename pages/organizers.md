@@ -12,8 +12,8 @@ To contact the organizing committee please <a href="mailto:gsc26-rotorua-organis
 
 
 # The Organizing Committee members
-* [Lynn Schriml, University of Maryland](https://www.linkedin.com/in/lynn-schriml-1753609/)
-* [Christopher Hunter, GigaScience](https://www.linkedin.com/in/chr1shunter/)
+* [Lynn Schriml, University of Maryland School of Medicine](https://www.linkedin.com/in/lynn-schriml-1753609/)
+* [Christopher Hunter](https://www.linkedin.com/in/chr1shunter/)
 * [Ilene Mizrachi, NCBI](https://www.linkedin.com/in/ilene-mizrachi-a7167717/)
 * [Libby Liggins, University of Auckland](https://www.linkedin.com/in/)
 * [Claire Rye, University of Auckland](https://www.linkedin.com/in/)
