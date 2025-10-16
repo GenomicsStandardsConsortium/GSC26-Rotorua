@@ -35,23 +35,23 @@ Scientific vendors will have the opportunity to interact with attendees and spea
 Note - Sponsorship values are in USD as the GSC is a registered not-for-profit in USA.
 
 # Sponsorship Level Opportunities:
-A brochure describing the sponsorship opportunities will be [available here](https://genomicsstandardsconsortium.github.io/GSC25-Auckland/assets/GSC26-Auckland_Sponsorship.pdf).
+A brochure describing the sponsorship opportunities will be [available here](https://genomicsstandardsconsortium.github.io/GSC25-Auckland/assets/GSC26-Sponsorship-prospectus.pdf).
 
 The details below are from the GSC25 meeting and serve as a guide that will be revised soon (prices in USD)
 
-## Bronze Sponsor ($1000) sponsors will receive the following benefits:
-1.	Acknowledgment of your sponsorship on the GSC (www.gensc.org), including links to your company’s website.
+## Bronze Sponsor ($1,000 USD / $1,700 NZD) sponsors will receive the following benefits:
+1.	Acknowledgment of sponsorship on the GSC26 website, including links to your company’s website.
 2.	Inclusion of the sponsor’s logo in meeting materials.
 
-## Silver Sponsor ($3,500) sponsors will receive the following benefits:
-1.	Acknowledgment of your sponsorship on the GSC (www.gensc.org), including links to your company’s website.
+## Silver Sponsor ($4,000 USD / $7,000 NZD) sponsors will receive the following benefits:
+1.	Acknowledgment of sponsorship on the GSC26 website, including links to your company’s website.
 2.	Inclusion of the sponsor’s logo in meeting materials.
 3.	One free meeting registration.
 4.	Organization name and logo recognition on meeting signage.
 5.	Logo included on inter-session slides.
 	
-## Gold Sponsor ($6,500) sponsors will receive the following benefits:
-1.	Acknowledgment of your sponsorship on the GSC (www.gensc.org), including links to your company’s website.
+## Gold Sponsor ($7,000 uSD / $12,000 NZD) sponsors will receive the following benefits:
+1.	Acknowledgment of sponsorship on the GSC26 website, including links to your company’s website.
 2.	Inclusion of the sponsor’s logo in meeting materials.
 3.	One free meeting registration.
 4.	Tabletop exhibition display (~1.6 m, 5ft).
@@ -59,9 +59,9 @@ The details below are from the GSC25 meeting and serve as a guide that will be r
 6.	Organization name and logo recognition on meeting signage.
 7.	Logo included on inter-session slides.
 
-## Platinum Sponsor ($9,500) sponsors will receive the following benefits:
+## Platinum Sponsor ($10,000 USD / $17,000 NZD) sponsors will receive the following benefits:
 1.	Guaranteed 15-minute speaking slot in the program of the annual GSC meeting.
-2.	Acknowledgment of your sponsorship on the GSC (www.gensc.org), including links to your company’s website.
+2.	Acknowledgment of sponsorship on the GSC26 website, including links to your company’s website.
 3.	Inclusion of the sponsor’s logo in meeting materials.
 4.	Two free meeting registrations.
 5.	Tabletop exhibition display (~1.6 m, 5ft).
