@@ -9,7 +9,7 @@ Come back later for details!
 
 ## Outline Schedule 
 
-## Agenda (incomplete)
+## Agenda (in-progress)
 
 ## Thank you to our sponsors
 

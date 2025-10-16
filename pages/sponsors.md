@@ -32,7 +32,7 @@ This meeting is intended for academic, corporate, and government professionals i
 Attendance for the annual meeting is expected to be between 100-150 participants. We envisage a total of between 10 and 20 sponsors of all levels, with 5 to 8 of those at the Platinum sponsor level. 
 Scientific vendors will have the opportunity to interact with attendees and speakers during the entire meeting including the opening reception, daily coffee breaks, lunches, and in between sessions. This meeting allows for ample networking time between sponsors and attendees. 
 
-Note - Sponsorship values are in USD as the GSC is a registered not-for-profit in USA.
+Note - Sponsorship values are in USD as the GSC is a registered non-profit in USA.
 
 # Sponsorship Level Opportunities:
 A brochure describing the sponsorship opportunities will be [available here](https://genomicsstandardsconsortium.github.io/GSC25-Auckland/assets/GSC26-Sponsorship-prospectus.pdf).
