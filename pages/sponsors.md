@@ -35,7 +35,7 @@ Scientific vendors will have the opportunity to interact with attendees and spea
 Note - Sponsorship values are in USD as the GSC is a registered non-profit in USA.
 
 # Sponsorship Level Opportunities:
-A brochure describing the sponsorship opportunities will be [available here](https://genomicsstandardsconsortium.github.io/GSC25-Auckland/assets/GSC26-Sponsorship-prospectus.pdf).
+A brochure describing the sponsorship opportunities will be [available here]({{ '/assets/GSC26-Sponsorship-prospectus.pdf' | relative_url }})
 
 The details below are from the GSC25 meeting and serve as a guide that will be revised soon (prices in USD)
 
