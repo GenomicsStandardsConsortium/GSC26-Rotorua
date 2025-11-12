@@ -26,12 +26,18 @@ FACILITIES AND SERVICES
 Location: 1270 Hinemaru Street PO Box 1044 Rotorua, New Zealand 3010
 Phone: +64 7 347 1234
 
-![Millejium](../assets/img/Millenium.png)
+## [Millenium](../assets/img/Millenium.png)
 
-## Map location
+## GSC26 [Google Map](https://maps.app.goo.gl/66VKmGdfh63EQCAt9)
 
-## Parking
+## Parking: Free, off-street parking
 
+##Meeting Room:
+Mokoia Room
+Large, versatile and functional, the Mokoia Room seats up to 350. It has a full stage, projection room, feature lighting, and Wi-Fi capability. It's an ideal space for corporate conferences and grand wedding banquets.
+Area: 225 sqm / 2422 sq ft
+Capacity: 350
+## [Millenium](../assets/img/meetingroom.png)
 
 ## [About Genomic Standards Consortium](https://www.gensc.org/)
 ![GenSC logo](../assets/img/gsc_logo_sml.png)
