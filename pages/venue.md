@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Conference Venue
-cover-img: /assets/img/
-share-img: /assets/img/
+cover-img: /assets/img/Millenium.jpg
+share-img: /assets/img/Millenium.jpg
 ---
 
 # [Millennium Hotel Rotorua](https://www.millenniumhotels.com/en/rotorua/millennium-hotel-rotorua/)
