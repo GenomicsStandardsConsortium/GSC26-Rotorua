@@ -5,7 +5,7 @@ cover-img: /assets/img/
 share-img: /assets/img/
 ---
 
-[Millennium Hotel Rotorua](https://www.millenniumhotels.com/en/rotorua/millennium-hotel-rotorua/)
+# [Millennium Hotel Rotorua](https://www.millenniumhotels.com/en/rotorua/millennium-hotel-rotorua/)
 
 A resort hotel with unique architectural design, located near shores of Lake Rotorua, government gardens & commercial center. Centrally located, Millennium Hotel Rotorua is ideal as an international conference venue and base from which to
 enjoy the many superb activities available in this diverse region. Offering deluxe accommodation and warm,
@@ -28,11 +28,11 @@ FACILITIES AND SERVICES
 Location: 1270 Hinemaru Street PO Box 1044 Rotorua, New Zealand 3010
 Phone: +64 7 347 1234
 
-## [Millenium](../assets/img/Millenium.jpg)
+{![Millenium](../assets/img/Millenium.jpg)  | relative_url }
 
-## GSC26 [Google Map](https://maps.app.goo.gl/66VKmGdfh63EQCAt9)
+GSC26 [Google Map](https://maps.app.goo.gl/66VKmGdfh63EQCAt9)
 
-## Parking: Free, off street parking.
+Parking: Free, off street parking.
 
 ## Meeting Room:
 
@@ -41,7 +41,7 @@ Large, versatile and functional, the Mokoia Room seats up to 350. It has a full 
 Area: 225 sqm / 2422 sq ft
 Capacity: 350
 
-## [Millenium](../assets/img/meetingroom.jpg)
+{![Millenium](../assets/img/meetingroom.jpg) | relative_url }
 
 ## [About Genomic Standards Consortium](https://www.gensc.org/)
 ![GenSC logo](../assets/img/gsc_logo_sml.png)
