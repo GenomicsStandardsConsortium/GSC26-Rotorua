@@ -19,7 +19,7 @@ The above rates are per room per night, based on single, twin share or double oc
 
 328/348 Fenton Street, Ohinemutu, Rotorua 3010, New Zealand \
 Room Types: Superior $150.00 (Single) and $160 (Twin); Standard $125 (Single) and $135 (Twin) \
-The above rates are per room per night. Breakfast available for $35.00 per person. \
+The above rates are per room per night. Breakfast available for $35.00 per person. 
 
 
 

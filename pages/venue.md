@@ -24,7 +24,7 @@ outdoor events. Emphasizing eco-sensitivity, the hotel is smoke-free and utilize
 • In-house day spa for beauty and massage \
 • Complimentary off-street parking \
 • 15m thermally heated all weather swimming pool \
-• Free, off street parking. \
+• Free, off street parking. 
 
 *Location:* 1270 Hinemaru Street PO Box 1044 Rotorua, New Zealand 3010 \
 *Phone:* +64 7 347 1234
@@ -39,7 +39,7 @@ outdoor events. Emphasizing eco-sensitivity, the hotel is smoke-free and utilize
 *Mokoia Room* \
 Large, versatile and functional, the Mokoia Room seats up to 350. It has a full stage, projection room, feature lighting, and Wi-Fi capability. It's an ideal space for corporate conferences and grand wedding banquets. \
 Area: 225 sqm / 2422 sq ft \
-Capacity: 350 \
+Capacity: 350 
 
 ![Millenium](../assets/img/meetingroom.jpg)
 
