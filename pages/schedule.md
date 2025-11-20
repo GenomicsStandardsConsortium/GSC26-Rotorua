@@ -23,6 +23,7 @@ Check back later for details!
 
 ## Thank you to our sponsors
 
+![Platinum1](./images/ZymoResearch-yellow-125.jpg)	
 
 
 [ ![GenSC](../assets/img/gsc_logo_sml.png) ](https://www.gensc.org/)
