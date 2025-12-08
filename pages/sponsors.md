@@ -8,6 +8,7 @@ share-img: /assets/img/
 
  ![PlatinumSponsor](./images/PlatinumSponsor-500.png)
 
+[ ![ZymoPlatinum](./images/ZymoResearch-yellow-250.jpg) ](https://zymoresearch.eu/)
 
 ___
 
@@ -22,6 +23,8 @@ ___
 ___
 
  ![BronzeSponsor](./images/BronzeSponsor-500.png)
+
+[ ![MicrobiomeBronze](./images/microbiome_logo-250.jpg) ](https://microbiomejournal.biomedcentral.com/)	
 
 
 ___
