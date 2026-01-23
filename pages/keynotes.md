@@ -9,7 +9,6 @@ share-img: /assets/img/keynote-banner.png
 
 We are pleased to announce that we have the following confirmed keynote speakers:
 
-## keynote 1
 
 Keynote: [Amanda Black](https://researchers.lincoln.ac.nz/amanda.black) (Lincoln University) Indigenous Data Governance: Data Standards in Indigenous contexts
 
