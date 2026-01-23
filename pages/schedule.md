@@ -10,25 +10,25 @@ share-img: /assets/img/
 
 ## Day 1: Wednesday August 12 - Genomic Standards in Indigenous contexts
 * Themes: Oceania genomics & Indigenous metadata; Access and benefit sharing and biocultural stewardship; Regulations
-*Pōwhiri welcome
-*GSC welcome [Lynn Schriml](https://www.medschool.umaryland.edu/profiles/schriml-lynn/), [GSC](https://www.gensc.org/) President (University of Maryland School of Medicine)
-*Keynote: [Amanda Black](https://researchers.lincoln.ac.nz/amanda.black) (Lincoln University) Indigenous Data Governance: Data Standards in Indigenous contexts 
-*Session Themes: Oceania genomics & Indigenous metadata; Access and benefit sharing and biocultural stewardship; Regulations
-**Speakers:**
+* Pōwhiri welcome
+* GSC welcome [Lynn Schriml](https://www.medschool.umaryland.edu/profiles/schriml-lynn/), [GSC](https://www.gensc.org/) President (University of Maryland School of Medicine)
+* Keynote: [Amanda Black](https://researchers.lincoln.ac.nz/amanda.black) (Lincoln University) Indigenous Data Governance: Data Standards in Indigenous contexts 
+* Session Themes: Oceania genomics & Indigenous metadata; Access and benefit sharing and biocultural stewardship; Regulations
+**Speakers**
 [Neil Davies](https://moorea.berkeley.edu/people/Neil-Davies) UC Berkeley. CARE/FAIR Use Cases
 
 ## Day 2: Thursday August 13 - Genomic Standards
-*Session Themes: GSC Standards; Single-cell, eDNA, ancient DNA Standards; Standards Across Genomic Repositories & DNA reference databases: Partnership models & LISTEN principles
-**Speakers: **
+* Themes: GSC Standards; Single-cell, eDNA, ancient DNA Standards; Standards Across Genomic Repositories & DNA reference databases: Partnership models & LISTEN principles
+**Speakers**
 [Phil Wilcox](https://www.otago.ac.nz/maths-and-stats/people/associate-professor-phillip-wilcox) (University of Otago, University of Auckland) Omic Observing and Reference Databases: [Rakeiora](https://rakeiora.ac.nz/)
 [Claire Rye](https://www.linkedin.com/in/claire-rye-b390bb66/) (University of Auckland, [Aotearoa Genomic Data Repository](https://data.agdr.org.nz/)); [Mik Black](https://www.otago.ac.nz/faculty-biomedical-sciences/expertise/profile?id=352) ([Genomics Aotearoa](https://www.genomics-aotearoa.org.nz/)); [Libby Liggins](https://profiles.auckland.ac.nz/libby-liggins) (University of Auckland) Sequence Repositories: Aotearoa Genomic Database
 
 **Evening Networking**: Thursday night market
 
 ## Day 3: Friday August 14 - Ethical, Legal, and Social Context
-*Session Themes: Ethical, Legal, and Social metadata; Standards for Bioconvergence: Genomics and AI;
+*Themes*: Ethical, Legal, and Social metadata; Standards for Bioconvergence: Genomics and AI;
 
-*Afternoon: Standards Development Workshops
+* Afternoon: Standards Development Workshops
 
 
  
