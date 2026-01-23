@@ -12,13 +12,15 @@ To contact the organizing committee please <a href="mailto:gsc26-rotorua-organis
 
 
 # The Organizing Committee members
-* [Lynn Schriml, University of Maryland School of Medicine](https://www.linkedin.com/in/lynn-schriml-1753609/)
-* [Christopher Hunter](https://www.linkedin.com/in/chr1shunter/)
-* [Ilene Mizrachi, NCBI](https://www.linkedin.com/in/ilene-mizrachi-a7167717/)
-* [Libby Liggins, University of Auckland](https://www.linkedin.com/in/)
-* [Claire Rye, University of Auckland](https://www.linkedin.com/in/)
-* [Mik Black, University of Otago](https://www.linkedin.com/in/)
-* [Scott Tighe, University of Vermont](https://www.linkedin.com/in/scott-tighe-094058a/)
+* [Lynn Schriml](https://www.linkedin.com/in/lynn-schriml-1753609/) (University of Maryland School of Medicine)
+* [Christopher Hunter](https://www.linkedin.com/in/chr1shunter/) (University of Exeter)
+* [Ilene Mizrachi](https://www.linkedin.com/in/ilene-mizrachi-a7167717/) (NCBI, GenBank)
+* [Libby Liggins](https://www.linkedin.com/in/) (University of Auckland)
+* [Claire Rye](https://www.linkedin.com/in/) (University of Auckland)
+* [Mik Black](https://www.linkedin.com/in/) (University of Otago)
+* [Scott Tighe](https://www.linkedin.com/in/scott-tighe-094058a/) (University of Vermont)
+* [Maui Hudson](https://profiles.waikato.ac.nz/maui.hudson) (University of Waikato)
+* [Alana Alexander](https://www.otago.ac.nz/healthsciences/expertise/profile?id=3046) (University of Otago)
 
 
 
