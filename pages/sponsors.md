@@ -9,7 +9,7 @@ share-img: /assets/img/
  ![PlatinumSponsor](./images/PlatinumSponsor-500.png)
 
 [ ![ZymoPlatinum](./images/ZymoResearch-yellow-250.jpg) ](https://zymoresearch.eu/)
-[ ![Tourism New Zealand](.images/Tourism-New-Zealand-Logo-Vector.svg) ](https://www.tourismnewzealand.com/)
+[ ![Tourism New Zealand](./images/Tourism_New_Zealand_Logo_Vector.svg) ](https://www.tourismnewzealand.com/)
 
 ___
 
