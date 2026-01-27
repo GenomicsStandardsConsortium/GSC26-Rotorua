@@ -35,7 +35,9 @@ share-img: /assets/img/
 
 ## Thank you to our sponsors
 
-![Platinum1](./images/ZymoResearch-yellow-125.jpg)	![Bronze1](./images/microbiome_logo-125.jpg) 
+![Platinum1](./images/ZymoResearch-yellow-125.jpg)	
+![Platinum2](./images/Tourism_New_Zealand_Logo_Vector.svg)
+![Bronze1](./images/microbiome_logo-125.jpg) 
 
 
 [ ![GenSC](../assets/img/gsc_logo_sml.png) ](https://www.gensc.org/)
