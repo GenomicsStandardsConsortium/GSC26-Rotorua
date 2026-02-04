@@ -36,7 +36,7 @@ share-img: /assets/img/
 ## Thank you to our sponsors
 
 ![Platinum1](./images/ZymoResearch-yellow-125.jpg)	
-![Platinum2](./images/Tourism_New_Zealand_Logo_Vector.svg)
+![Platinum2](./images/Tourism-New-Zealand-125.png)
 ![Bronze1](./images/microbiome_logo-125.jpg) 
 
 
