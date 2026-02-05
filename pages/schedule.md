@@ -15,8 +15,8 @@ share-img: /assets/img/
 * Keynote: [Amanda Black](https://researchers.lincoln.ac.nz/amanda.black) (Lincoln University) Indigenous Data Governance: Data Standards in Indigenous contexts 
 * Session Themes: Oceania genomics & Indigenous metadata; Access and benefit sharing and biocultural stewardship; Regulations
 * Speakers
-* [Neil Davies](https://moorea.berkeley.edu/people/Neil-Davies) UC Berkeley. CARE/FAIR Use Cases
-* [Kris Locken](https://www.linkedin.com/in/kristopher-locken-a5a071a3/) [Zymo Research](https://www.zymoresearch.com/?srsltid=AfmBOop13fdu2SJlLCxy_SkM__KTaV-fJ1WIHHDXuaNZmWgLFvClBfV8) Platinum Sponsor
+* [Neil Davies](https://moorea.berkeley.edu/people/Neil-Davies) (UC Berkeley) CARE/FAIR Use Cases
+* [Kris Locken](https://www.linkedin.com/in/kristopher-locken-a5a071a3/) ([Zymo Research](https://www.zymoresearch.com/?srsltid=AfmBOop13fdu2SJlLCxy_SkM__KTaV-fJ1WIHHDXuaNZmWgLFvClBfV8)) Platinum Sponsor
 
 ## Day 2: Thursday August 13 - Genomic Standards
 * Themes: GSC Standards; Single-cell, eDNA, ancient DNA Standards; Standards Across Genomic Repositories & DNA reference databases: Partnership models & LISTEN principles
