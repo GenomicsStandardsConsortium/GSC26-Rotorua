@@ -6,8 +6,7 @@ share-img: /assets/img/
 ---
 
 
-# Agenda (in progress)
-
+# Agenda
 ## Day 1: Wednesday August 12 - Genomic Standards in Indigenous contexts
 * Themes: Oceania genomics & Indigenous metadata; Access and benefit sharing and biocultural stewardship; Regulations
 * Pōwhiri welcome
