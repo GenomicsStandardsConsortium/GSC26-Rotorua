@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Conference Venue
-cover-img: /assets/img/millenium_1.png
+cover-img: /assets/img/millennium_1.png
 share-img: /assets/img/Millenium.jpg
 ---
 
