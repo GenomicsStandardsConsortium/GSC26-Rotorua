@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About GSC25
+title: About GSC26
 cover-img: /assets/img/the-board-2023.png
 share-img: /assets/img/gsc_logo_sml.png
 ---
@@ -22,10 +22,9 @@ Attendance for the GSC annual meeting is expected to be between 100 and 150 part
 
 
 ## GSC past meetings
-Please see [GSC24-Tucson](https://genomicsstandardsconsortium.github.io/GSC24-Tucson/) and [GSC23-Bangkok](https://genomicsstandardsconsortium.github.io/GSC23-Bangkok/) for the previous two GSC meetings.
 
-## GSC25 Cambridge
-The GSC 2025 annual meeting was be held in [Clare College](https://genomicsstandardsconsortium.github.io/GSC25-Cambridge/pages/venue/), Cambridge University, Cambridge UK.
+The GSC 2025 annual meeting was held in [Clare College](https://genomicsstandardsconsortium.github.io/GSC25-Cambridge/pages/venue/), Cambridge University, Cambridge UK. Prior to that GSC24 was in [Tucson](https://genomicsstandardsconsortium.github.io/GSC24-Tucson/) and [GSC23-Bangkok](https://genomicsstandardsconsortium.github.io/GSC23-Bangkok/).
+
 
 
 [ ![GenSC](../assets/img/gsc_logo_sml.png) ](https://www.gensc.org/)
