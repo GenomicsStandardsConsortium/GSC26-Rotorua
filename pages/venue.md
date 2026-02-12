@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Conference Venue
-cover-img: /assets/img/Millenium.jpg
+cover-img: /assets/img/millenium_1.png
 share-img: /assets/img/Millenium.jpg
 ---
 
@@ -41,7 +41,7 @@ Large, versatile and functional, the Mokoia Room seats up to 350. It has a full 
 Area: 225 sqm / 2422 sq ft \
 Capacity: 350 
 
-![Millenium](../assets/img/meetingroom.jpg)
+![Millenium](../assets/img/meetingroom.png)
 
 ## [About Genomic Standards Consortium](https://www.gensc.org/)
 ![GenSC logo](../assets/img/gsc_logo_sml.png)
