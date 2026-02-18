@@ -30,7 +30,7 @@ share-img: /assets/img/
 * [Claire Rye](https://www.linkedin.com/in/claire-rye-b390bb66/) (University of Auckland, [Aotearoa Genomic Data Repository](https://data.agdr.org.nz/)); [Mik Black](https://www.otago.ac.nz/faculty-biomedical-sciences/expertise/profile?id=352) ([Genomics Aotearoa](https://www.genomics-aotearoa.org.nz/)); [Libby Liggins](https://profiles.auckland.ac.nz/libby-liggins) (University of Auckland) Sequence Repositories: Aotearoa Genomic Database
 * [Ilene Mizrachi](https://www.linkedin.com/in/ilene-mizrachi-a7167717/) (NIH/NCBI GenBank) INSDC future 
 
-**Evening Networking**: Thursday night market
+**Evening Networking**: [Thursday night market](https://www.rotoruanz.com/visit/listing/things-to-do/rotorua-night-market)
 
 ## Day 3: Friday August 14 - Ethical, Legal, and Social Context
 * Themes: Ethical, Legal, and Social metadata; Standards for Bioconvergence: Genomics and AI;
