@@ -9,7 +9,7 @@ share-img: /assets/img/
 # Agenda
 ## Day 1: Wednesday August 12 - Genomic Standards in Indigenous contexts
 * Themes: Oceania genomics & Indigenous metadata; Access and benefit sharing and biocultural stewardship; Regulations
-* Pōwhiri welcome
+* mihi whakatau (formal Māori welcome ceremony)
 * GSC welcome [Lynn Schriml](https://www.medschool.umaryland.edu/profiles/schriml-lynn/), [GSC](https://www.gensc.org/) President (University of Maryland School of Medicine)
 * Keynote: [Amanda Black](https://researchers.lincoln.ac.nz/amanda.black) (Lincoln University) Indigenous Data Governance: Data Standards in Indigenous contexts 
 * Session Themes: Oceania genomics & Indigenous metadata; Access and benefit sharing and biocultural stewardship; Regulations
