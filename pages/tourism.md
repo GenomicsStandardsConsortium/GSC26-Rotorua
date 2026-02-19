@@ -21,14 +21,19 @@ Each Thursday night, weather permitting, the Rotorua Night Market is abuzz with 
 # Special discounts for registered participants
 
 Included in the registration fee, conference delegates will be elgible for the following discounts: 
-• $10 off Millennium Hotel inhouse spa \
-• 10% off Millennium Hotel food and beverage for inhouse restaurants and bar \
-• 10% off Te Puia \
-• 10% off Paradise Valley Springs \
-• 20% off Polynesian Spa (public bathing/ 60m therapy) \
-• 10% off Hells Gate \
-• 5% off Duck Tours \
-• 10% off Wai Ariki \
+• [$10 off Millennium Hotel inhouse spa](https://www.sparotorua.co.nz ) \
+• [10% off Millennium Hotel food and beverage for inhouse restaurants and bar](https://www.millenniumhotels.com/en/rotorua/millennium-hotel-rotorua/dining-rooms/) \
+• [10% off Te Puia](https://www.tepuia.com/) \
+• [10% off Paradise Valley Springs](https://www.paradisev.co.nz/) \
+• [20% off Polynesian Spa](https://www.polynesianspa.co.nz/) (public bathing/ 60m therapy) \
+• [10% off Hells Gate](https://www.hellsgate.co.nz/) \
+• [5% off Duck Tours](https://rotoruaducktours.co.nz/) \
+• [10% off Wai Ariki](https://www.wai-ariki.co.nz/) \
+
+Other attractions of interest (no discount):
+• [Secret Spot Hot Tubs Rotorua](https://secretspot.nz/) \
+• [Cycling and mountain biking](https://www.rotoruanz.com/things-to-do/cycling-mountain-biking) \
+• [Māori culture](https://www.rotoruanz.com/things-to-do/maori-culture) \
 
 
 ## [About Genomic Standards Consortium](https://www.gensc.org/)
