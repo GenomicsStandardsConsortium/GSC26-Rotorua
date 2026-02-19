@@ -28,12 +28,12 @@ Included in the registration fee, conference delegates will be elgible for the f
 • [20% off Polynesian Spa](https://www.polynesianspa.co.nz/) (public bathing/ 60m therapy) \
 • [10% off Hells Gate](https://www.hellsgate.co.nz/) \
 • [5% off Duck Tours](https://rotoruaducktours.co.nz/) \
-• [10% off Wai Ariki](https://www.wai-ariki.co.nz/) \
+• [10% off Wai Ariki](https://www.wai-ariki.co.nz/) 
 
 Other attractions of interest (no discount):
 • [Secret Spot Hot Tubs Rotorua](https://secretspot.nz/) \
 • [Cycling and mountain biking](https://www.rotoruanz.com/things-to-do/cycling-mountain-biking) \
-• [Māori culture](https://www.rotoruanz.com/things-to-do/maori-culture) \
+• [Māori culture](https://www.rotoruanz.com/things-to-do/maori-culture) 
 
 
 ## [About Genomic Standards Consortium](https://www.gensc.org/)
