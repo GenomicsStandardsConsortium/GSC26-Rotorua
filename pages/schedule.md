@@ -43,6 +43,7 @@ share-img: /assets/img/
 
 ## Day 3: Friday August 14 - Ethical, Legal, and Social Context
 * Themes: Ethical, Legal, and Social metadata; Standards for Bioconvergence: Genomics and AI
+* [Katherine Tattersall](https://www.linkedin.com/in/katherinetattersall/) (CSIRO) BBNJ: omics in the high seas
 * [Nicole Edwards](https://www.linkedin.com/in/nicole-edwards-66281557/?locale=de) (University of Auckland) Indigenous data governance in AI and omics
 * [Maheata White](https://www.linkedin.com/in/maheata-white-1a984930/) (Université de la Polynésie Française) Internet of Places (iPlaces)
 * [Erin Robinson](https://www.linkedin.com/in/erinmr/) (Metadata Game Changers) Building place-based data trusts (iPlaces)
