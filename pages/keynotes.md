@@ -14,6 +14,13 @@ We are pleased to announce that we have the following confirmed keynote speakers
 <p>
 <img align="left" src="../images/keynote-speaker-Amanda-Black-300x300.jpg" style="margin-right:10px">
 Data Standards in Indigenous contexts. Abstract to follow.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 </p>
 ## Keynote 2 TBA
 <p>
