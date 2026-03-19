@@ -21,16 +21,10 @@ Data Standards in Indigenous contexts. Abstract to follow.
 <br>
 <br>
 <br>
-</p>
-## Keynote 2 TBA
-<p>
-
+<br>
+<br>
 </p>
 
-## Keynote 3 TBA
-<p>
-
-</p>
 
 # Dawn Field Awardee 
 <img align="left" src="../images/to-be-announced.jpg" style="margin-right:10px">
