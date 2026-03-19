@@ -11,13 +11,19 @@ We are pleased to announce that we have the following confirmed keynote speakers
 
 
 ## [Amanda Black](https://researchers.lincoln.ac.nz/amanda.black) (Lincoln University) Indigenous Data Governance:
+<p>
 <img align="left" src="../images/keynote-speaker-Amanda-Black-300x300.jpg" style="margin-right:10px">
 Data Standards in Indigenous contexts. Abstract to follow.
-
+</p>
 ## Keynote 2 TBA
+<p>
+
+</p>
 
 ## Keynote 3 TBA
+<p>
 
+</p>
 
 # Dawn Field Awardee 
 <img align="left" src="../images/to-be-announced.jpg" style="margin-right:10px">
