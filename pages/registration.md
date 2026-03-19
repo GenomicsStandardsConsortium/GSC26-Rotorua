@@ -14,14 +14,14 @@ By registering you are agreeing to the terms and conditions set out below, pleas
 ## Registration Fee
 
 ** Early-bird (until end of July 6) **
-Full registration $350 USD/600 NZD
-Student registration $250 USD/450 NZD
-Industry attendees registration $500 USD/850 NZD
+- Full registration $350 USD/600 NZD
+- Student registration $250 USD/450 NZD
+- Industry attendees registration $500 USD/850 NZD
 
 ** Standard (until end of July 21) **
-Full registration $550 USD/900 NZD
-Student registration $450 USD/750 NZD
-Industry attendees registration $700 USD/1050NZD
+- Full registration $550 USD/900 NZD
+- Student registration $450 USD/750 NZD
+- Industry attendees registration $700 USD/1050NZD
 
 
 ## Conference Terms and Conditions
