@@ -24,6 +24,7 @@ share-img: /assets/img/
 ## Day 2: Thursday August 13 - Genomic Standards
 * Themes: GSC Standards; Single-cell, eDNA, ancient DNA Standards; Standards Across Genomic Repositories & DNA reference databases: Partnership models & LISTEN principles
 *Speakers
+* [Miwa Takahashi - Dawn Field Awardee](https://www.linkedin.com/in/miwa-takahashi-b73817142/)
 * [Montana Smith](https://www.linkedin.com/in/montana-smith-426994234/) ([NMDC](https://www.linkedin.com/in/montana-smith-426994234/)) GSC MIxS v7.0
 * [Tina Warinner](https://www.linkedin.com/in/christina-warinner-0b6bb418/) (Harvard University) Ancient DNA (aDNA) MInAS update
 * [Tanja Woyke](https://www.linkedin.com/in/tanja-woyke-4537459/) (DOE, Joint Genome Institute) Single-cell genomic standards
@@ -58,6 +59,7 @@ share-img: /assets/img/
 
 ![Platinum1](./images/ZymoResearch-yellow-125.jpg)	
 ![Platinum2](./images/Tourism-New-Zealand-125.png)
+![Silver1](./image/ONT-logo-125.png)
 ![Bronze1](./images/microbiome_logo-125.jpg) 
 
 
