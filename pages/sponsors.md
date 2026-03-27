@@ -20,7 +20,7 @@ ___
 
  ![SilverSponsor](./images/SilverSponsor-500.png) 
  
-[ ![ONT](./images/ONT-logo-125.png) ](https://nanoporetech.com/)
+[ ![ONT](./images/ONT-logo-250.png) ](https://nanoporetech.com/)
 
 ___
 
