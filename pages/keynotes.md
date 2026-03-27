@@ -34,7 +34,16 @@ The ‘Dawn Field Award for Outstanding Contributions to Genomic Standards’ an
 <p>
 <img align="left" src="../images/miwa-takahashi-300.png" style="margin-right:10px">
 Environmental DNA; FAIRe checklist. Abstract to follow.
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</p>
 
 
 ### Previous ‘Dawn Field Award for Outstanding Contributions to Genomic Standards’ Awardees:
