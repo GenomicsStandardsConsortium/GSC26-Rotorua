@@ -7,7 +7,7 @@ share-img: /assets/img/
 AI‑readiness is becoming a defining requirement for genomic data standards, and this theme will run throughout the three days of GSC2026. The meeting will bring together researchers, data stewards, and standards developers to examine how genomic repositories can support responsible, interoperable, and culturally grounded uses of AI. 
 Day 1 focuses on genomics in Indigenous contexts, including case studies, and a panel on developing data standards that maintain Indigenous metadata to support governance and data sovereignty. 
 Day 2 will cover: new and evolving standards for genomic data; and different genomic data repository models, including those that are access‑controlled and federated. A panel discussion addressing how these distributed repositories can maintain interoperability and be machine-actionable will close Day 2. 
-Day 3 includes a dedicated session on Omics in AI and Digital Twins, followed by session on Building Trustworthy Omic Data Ecosystems. A featured speaker will be Dr. Nicole Edwards, whose recent Nature Neuroscience paper theorizes how Indigenous communities can shape what genomic data AI systems access and how AI algorithms are designed. Her work advocates for federated access-controlled repositories and federated AI‑learning approaches, ideally aligned with Indigenous‑led “sovereign AI” frameworks. We also hope to include presenters (pending funding) that can speak to how standards such as MIxS may evolve to better support AI‑driven analyses and allow genomic data to contribute to large‑scale Digital Twin initiatives.
+Day 3 includes a dedicated session on Omics in AI and Digital Twins, followed by a session on Building Trustworthy Omic Data Ecosystems. A featured speaker will be Dr. Nicole Edwards, whose recent Nature Neuroscience paper theorizes how Indigenous communities can shape what genomic data AI systems access and how AI algorithms are designed. Her work advocates for federated access-controlled repositories and federated AI‑learning approaches, ideally aligned with Indigenous‑led “sovereign AI” frameworks. We also hope to include presenters (pending funding) that can speak to how standards such as MIxS may evolve to better support AI‑driven analyses and allow genomic data to contribute to large‑scale Digital Twin initiatives.
 
 # Agenda
 ## Day 1: Wednesday August 12 - Genomic Standards in Indigenous contexts
@@ -16,7 +16,7 @@ Day 3 includes a dedicated session on Omics in AI and Digital Twins, followed by
 * GSC welcome [Lynn Schriml](https://www.medschool.umaryland.edu/profiles/schriml-lynn/), [GSC](https://www.gensc.org/) President (University of Maryland School of Medicine)
 * Keynote: [Amanda Black](https://researchers.lincoln.ac.nz/amanda.black) (Lincoln University) Indigenous Data Governance: Data Standards in Indigenous contexts 
 * Session Themes: Oceania genomics & Indigenous metadata; Access and benefit sharing and biocultural stewardship; Regulations
-* Speakers
+* Speakers 
 * [Leke Hutchins](https://www.lekehutchins.com/) (Arizona State University) Applying Indigenous Data Sovereignty Principles
 * [Maui Hudson](https://www.linkedin.com/in/mauihudson/) (University of Waikato) CARE Principles
 * [Hop Hopkins](https://www.linkedin.com/in/hophopkins/) Local Contexts Executive Director
@@ -26,14 +26,14 @@ Day 3 includes a dedicated session on Omics in AI and Digital Twins, followed by
 
 ## Day 2: Thursday August 13 - Genomic Standards
 * Themes: GSC Standards; Single-cell, eDNA, ancient DNA Standards; Standards Across Genomic Repositories & DNA reference databases: Partnership models & LISTEN principles
-*Speakers
-* [Miwa Takahashi - Dawn Field Awardee](https://www.linkedin.com/in/miwa-takahashi-b73817142/)
+* Speakers
+* [Miwa Takahashi](https://www.linkedin.com/in/miwa-takahashi-b73817142/) (CSIRO) FAIRe eDNA checklists - Dawn Field Awardee
 * [Montana Smith](https://www.linkedin.com/in/montana-smith-426994234/) ([NMDC](https://www.linkedin.com/in/montana-smith-426994234/)) GSC MIxS v7.0
 * [Tina Warinner](https://www.linkedin.com/in/christina-warinner-0b6bb418/) (Harvard University) Ancient DNA (aDNA) MInAS update
 * [Tanja Woyke](https://www.linkedin.com/in/tanja-woyke-4537459/) (DOE, Joint Genome Institute) Single-cell genomic standards
 * [Phil Wilcox](https://www.otago.ac.nz/maths-and-stats/people/associate-professor-phillip-wilcox) (University of Otago, University of Auckland) Omic Observing and Reference Databases: [Rakeiora](https://rakeiora.ac.nz/)
 * [Jodie Van De Kamp](https://www.linkedin.com/in/jodie-van-de-kamp-b24088a4/) (CSIRO) Australian Microbiome
-* [Tobias Frøslev](https://www.linkedin.com/in/tobias-guldberg-fr%C3%B8slev-1a41208/) (GBIF) 
+* [Tobias Frøslev](https://www.linkedin.com/in/tobias-guldberg-fr%C3%B8slev-1a41208/) (GBIF) Global Biodiversity Information Facility
 * [John Deck](https://www.linkedin.com/in/john-deck-b068375/) (UC Berkeley) Genomic Observatories Metadatabase (GeOMe)
 * [Chris Meyer](https://www.linkedin.com/in/chris-meyer-9102414b/) (Smithsonian's National Museum of Natural History) Ocean Biomolecular Observing Network (OBON)
 * [Claire Rye](https://www.linkedin.com/in/claire-rye-b390bb66/) (University of Auckland, [Aotearoa Genomic Data Repository](https://data.agdr.org.nz/)); [Mik Black](https://www.otago.ac.nz/faculty-biomedical-sciences/expertise/profile?id=352) ([Genomics Aotearoa](https://www.genomics-aotearoa.org.nz/)); [Libby Liggins](https://profiles.auckland.ac.nz/libby-liggins) (University of Auckland) Sequence Repositories: Aotearoa Genomic Database
