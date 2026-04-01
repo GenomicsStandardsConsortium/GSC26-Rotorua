@@ -4,7 +4,10 @@ title: Online Agenda
 cover-img: /assets/img/schedule-banner.png
 share-img: /assets/img/
 ---
-
+AI‑readiness is becoming a defining requirement for genomic data standards, and this theme will run throughout the three days of GSC2026. The meeting will bring together researchers, data stewards, and standards developers to examine how genomic repositories can support responsible, interoperable, and culturally grounded uses of AI. 
+Day 1 focuses on genomics in Indigenous contexts, including case studies, and a panel on developing data standards that maintain Indigenous metadata to support governance and data sovereignty. 
+Day 2 will cover: new and evolving standards for genomic data; and different genomic data repository models, including those that are access‑controlled and federated. A panel discussion addressing how these distributed repositories can maintain interoperability and be machine-actionable will close Day 2. 
+Day 3 includes a dedicated session on Omics in AI and Digital Twins, followed by session on Building Trustworthy Omic Data Ecosystems. A featured speaker will be Dr. Nicole Edwards, whose recent Nature Neuroscience paper theorizes how Indigenous communities can shape what genomic data AI systems access and how AI algorithms are designed. Her work advocates for federated access-controlled repositories and federated AI‑learning approaches, ideally aligned with Indigenous‑led “sovereign AI” frameworks. We also hope to include presenters (pending funding) that can speak to how standards such as MIxS may evolve to better support AI‑driven analyses and allow genomic data to contribute to large‑scale Digital Twin initiatives.
 
 # Agenda
 ## Day 1: Wednesday August 12 - Genomic Standards in Indigenous contexts
