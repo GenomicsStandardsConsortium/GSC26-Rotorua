@@ -59,7 +59,7 @@ share-img: /assets/img/
 
 ![Platinum1](./images/ZymoResearch-yellow-125.jpg)	
 ![Platinum2](./images/Tourism-New-Zealand-125.png)
-![Silver1](./images/ONT-logo-125.png)
+![Silver1](./images/ONT_3Line_Black-125.png)
 ![Bronze1](./images/microbiome_logo-125.jpg) 
 
 
