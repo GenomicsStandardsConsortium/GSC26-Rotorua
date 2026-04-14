@@ -7,24 +7,23 @@ share-img: /assets/img/
 
 # In person registration
 
-It is anticipated registration will open by the end of March 2026.
+Registration is open !!
 
-By registering you are agreeing to the terms and conditions set out below, please read these careful before completing your registration.
-
-## Registration Fee
-Early-bird (until July 6)
+## Registration Fees
+**Early-bird** (until July 6)
 - Full registration $350 USD/600 NZD
 - Student registration $250 USD/450 NZD
 - Industry attendees registration $500 USD/850 NZD
 
-Standard (until July 21)
+**Standard** (until July 21)
 - Full registration $550 USD/900 NZD
 - Student registration $450 USD/750 NZD
 - Industry attendees registration $700 USD/1050NZD
 
-- Complete the registration form below to register for the meeting:
+**Registration Form:** 
 - <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfgMuE6MEIGS-TssElvib17cIBjbcWGzIjhsBJ3L_jiSq0urg/viewform? embedded=true" width="640" height="2243" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
+By registering you are agreeing to the terms and conditions set out below, please read these careful before completing your registration.
 
 ## Conference Terms and Conditions
 
