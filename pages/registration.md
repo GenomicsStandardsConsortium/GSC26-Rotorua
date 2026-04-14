@@ -28,6 +28,11 @@ Standard (until July 21)
 
 ## Conference Terms and Conditions
 
+### Registration Reimbursement Policy?”
+Registration fees can be reimbursed, upon request from registrants, up to 60 days before the GSC meeting. 
+Fees will be reimbursed, minus a $50 USD/$100 NZD administrative fee. 
+Please direct any refund requests to genomicstandardsconsortium@gmail.com. 
+
 ### CONFERENCE ATTENDEES CODE OF CONDUCT
 
 The GSC conference is organized by Genomic Standards Consortium, an open, community organization dedicated to making genomic data discoverable. The GSC is committed to fostering a vibrant, inclusive, and respective environment. All attendees, speakers, organizers and exhibitors/sponsors at GSC events (hereafter known as “attendees”) are expected to abide by this Code of Conduct.
