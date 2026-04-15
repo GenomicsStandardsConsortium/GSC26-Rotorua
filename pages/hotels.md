@@ -10,21 +10,23 @@ share-img: /assets/img/gsc_logo_sml.png
 Two hotels are offering a special rate for delegates of GSC26:
 
 ## [Millennium Hotel Rotorua](https://www.millenniumhotels.com/en/rotorua/millennium-hotel-rotorua/) 
-
 1270 Hinemaru Street, Ohinemutu, Rotorua 3010, New Zealand \
+**[GSC2026 rate: Millennium Hotel Rotorua]**(https://www.millenniumhotels.com/en/bookings/?city=rotorua&hotelcode=13528&checkin=2026-08-12&checkout=2026-08-15&promocode=&discountcode=&groupcode=GSC2026&AAA=false&AARP=false&GOV=false&Accessible=true&adults=1&children=0&rooms=1&childrenAges=&viewrates=rooms)
+Superior $115.35 USD ; Superior Lake View: $139.01 USD; Club Room: $204.08 USD \
+Group discount code is GSC2026.
+
+**Regular Rates:**
 Room Types: Superior $195.00 (either King or 2 x Queens Beds only); Superior Lake Facing $235.00; Club Room with Lounge Access $345.00 \
-The above rates are per room per night, based on single, twin share or double occupancy. Full Buffet Breakfast available for $40.00 per person.
+The above rates are per room per night, based on single, twin share or double occupancy. 
+Full Buffet Breakfast available for $40.00 per person.
 
 ## [Copthorne Hotel Rotorua](https://www.millenniumhotels.com/en/rotorua/copthorne-hotel-rotorua/)
-
 328/348 Fenton Street, Ohinemutu, Rotorua 3010, New Zealand \
 Room Types: Superior $150.00 (Single) and $160 (Twin); Standard $125 (Single) and $135 (Twin) \
 The above rates are per room per night. Breakfast available for $35.00 per person. 
 
 
-
 ## Alternative Hotels
-
 There are several other accommodation options available in close proximity to the venue. You can explore options here: [Book Rotorua - Book](https://book.rotoruanz.com/)
 
 
