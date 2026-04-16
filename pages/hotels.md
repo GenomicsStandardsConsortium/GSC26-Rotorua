@@ -14,7 +14,7 @@ Two hotels are offering a special rate for delegates of GSC26:
 **GSC 2026 rate** [Millennium Hotel Rotorua](https://www.millenniumhotels.com/en/bookings/?city=rotorua&hotelcode=13528&checkin=2026-08-12&checkout=2026-08-15&promocode=&discountcode=&groupcode=GSC2026&AAA=false&AARP=false&GOV=false&Accessible=true&adults=1&children=0&rooms=1&childrenAges=&viewrates=rooms)
 Superior $115.35 USD ; Superior Lake View: $139.01 USD; Club Room: $204.08 USD \
 Group discount code is GSC2026.
-**Note**: Dates: the discount rate is available for dates before and after the conference dates, by editing the dates in the above link.\
+**Note**: Dates: the discount rate is available for dates before and after the conference dates, by editing the dates in the above link.
 
 
 **Regular Rates:**
