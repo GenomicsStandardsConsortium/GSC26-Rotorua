@@ -22,7 +22,7 @@ Registration is open !!
 
 **Registration Form:** 
 <div style="width:100%" >
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfgMuE6MEIGS-TssElvib17cIBjbcWGzIjhsBJ3L_jiSq0urg/viewform? embedded=true" height="2243" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfgMuE6MEIGS-TssElvib17cIBjbcWGzIjhsBJ3L_jiSq0urg/viewform? embedded=true" width="640" height="2243" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </div>
 
 By registering you are agreeing to the terms and conditions set out below, please read these careful before completing your registration.
