@@ -21,6 +21,8 @@ ___
  ![SilverSponsor](./images/SilverSponsor-500.png) 
  
 [ ![ONT](./images/ONT_3Line_Black-250.png) ](https://nanoporetech.com/)
+[ ![GenAot](./images/GA-Wide-Colour-250.png) ](https://www.genomics-aotearoa.org.nz/)
+
 
 ___
 
