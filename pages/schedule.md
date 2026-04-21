@@ -63,6 +63,7 @@ Day 3 includes a dedicated session on Omics in AI and Digital Twins, followed by
 ![Platinum1](./images/ZymoResearch-yellow-125.jpg)	
 ![Platinum2](./images/Tourism-New-Zealand-125.png)
 ![Silver1](./images/ONT_3Line_Black-125.png)
+![Silver2](./images/GA-Wide-white-125.png)
 ![Bronze1](./images/microbiome_logo-125.jpg) 
 
 
