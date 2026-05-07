@@ -16,9 +16,10 @@ Day 3 includes a dedicated session on Omics in AI and Digital Twins, followed by
 * GSC welcome [Lynn Schriml](https://www.medschool.umaryland.edu/profiles/schriml-lynn/), [GSC](https://www.gensc.org/) President (University of Maryland School of Medicine)
 * Keynote: [Amanda Black](https://researchers.lincoln.ac.nz/amanda.black) (Lincoln University) Indigenous Data Governance: Data Standards in Indigenous contexts 
 * Session Themes: Oceania genomics & Indigenous metadata; Access and benefit sharing and biocultural stewardship; Regulations
-* Speakers 
+* Speakers
+* [Kalinda Griffiths](https://www.linkedin.com/in/kalinda-griffiths/) (University of Melbourne) Australian Indigenous Genomics
 * [Leke Hutchins](https://www.lekehutchins.com/) (Arizona State University) Applying Indigenous Data Sovereignty Principles
-* [Maui Hudson](https://www.linkedin.com/in/mauihudson/) (University of Waikato) CARE Principles
+* [Cas Sedran-Price](https://www.linkedin.com/in/dr-cas-sedran-price-ab436861/) (University Centre for Rural Health) CARE Principles
 * [Hop Hopkins](https://www.linkedin.com/in/hophopkins/) Local Contexts Executive Director
 * [Neil Davies](https://moorea.berkeley.edu/people/Neil-Davies) (UC Berkeley) CARE/FAIR Use Cases
 * [Kris Locken](https://www.linkedin.com/in/kristopher-locken-a5a071a3/) ([Zymo Research](https://www.zymoresearch.com/?srsltid=AfmBOop13fdu2SJlLCxy_SkM__KTaV-fJ1WIHHDXuaNZmWgLFvClBfV8)) Platinum Sponsor
@@ -30,6 +31,7 @@ Day 3 includes a dedicated session on Omics in AI and Digital Twins, followed by
 * [Miwa Takahashi](https://www.linkedin.com/in/miwa-takahashi-b73817142/) (CSIRO) FAIRe eDNA checklists - Dawn Field Awardee
 * [Montana Smith](https://www.linkedin.com/in/montana-smith-426994234/) ([NMDC](https://www.linkedin.com/in/montana-smith-426994234/)) GSC MIxS v7.0
 * [Tina Warinner](https://www.linkedin.com/in/christina-warinner-0b6bb418/) (Harvard University) Ancient DNA (aDNA) MInAS update
+* [Katie Pitz](https://www.linkedin.com/in/kathleen-pitz-32236610/) ([MBARI](https://www.mbari.org/person/kathleen-pitz/):Monterey Bay Aquarium Research Institute) MIOP: Minimum Information about an Omics Protocol 
 * [Tanja Woyke](https://www.linkedin.com/in/tanja-woyke-4537459/) (DOE, Joint Genome Institute) Single-cell genomic standards
 * [Phil Wilcox](https://www.otago.ac.nz/maths-and-stats/people/associate-professor-phillip-wilcox) (University of Otago, University of Auckland) Omic Observing and Reference Databases: [Rakeiora](https://rakeiora.ac.nz/)
 * [Jodie Van De Kamp](https://www.linkedin.com/in/jodie-van-de-kamp-b24088a4/) (CSIRO) Australian Microbiome
@@ -40,18 +42,19 @@ Day 3 includes a dedicated session on Omics in AI and Digital Twins, followed by
 * [Guy Cochrane](https://www.linkedin.com/in/guy-cochrane-b7291819/) (EMBL-EBI, Global Biodata Coalition) GBC: Role of data standards connecting data ecosystems
 * [Peter Woollard](https://www.linkedin.com/in/peterwoollard/) European Bioinformatics Institute EMBL-EBI
 * [Seungwoo Hwang](https://oak.kribb.re.kr/researcher-profile?ep=488&type=all&sort_by=dc.date.issued_dt&order=DESC) (Korea Bioinformation Center)
-* [Ilene Mizrachi](https://www.linkedin.com/in/ilene-mizrachi-a7167717/) (NIH/NCBI GenBank) INSDC future 
+* [Yuriy Skripchenko](https://www.linkedin.com/in/ilene-mizrachi-a7167717/) (NIH/NCBI Sequence Read Archive) INSDC future 
 
 **Evening Networking**: 
 *[Thursday night market](https://www.rotoruanz.com/visit/listing/things-to-do/rotorua-night-market)
 
 ## Day 3: Friday August 14 - Ethical, Legal, and Social Context
 * Themes: Ethical, Legal, and Social metadata; Standards for Bioconvergence: Genomics and AI
-* [Katherine Tattersall](https://www.linkedin.com/in/katherinetattersall/) (CSIRO) BBNJ: omics in the high seas
+*[Christina Pavloudi](https://www.linkedin.com/in/christinapavloudi/) (EMBRC - European Marine Biological Resource Centre) Large scale observing & research infrastructures,
 * [Nicole Edwards](https://www.linkedin.com/in/nicole-edwards-66281557/?locale=de) (University of Auckland) Indigenous data governance in AI and omics
 * [Maheata White](https://www.linkedin.com/in/maheata-white-1a984930/) (Université de la Polynésie Française) Internet of Places (iPlaces)
 * [Erin Robinson](https://www.linkedin.com/in/erinmr/) (Metadata Game Changers) Building place-based data trusts (iPlaces)
 * [Joseph Yracheta](https://www.linkedin.com/in/joseph-yracheta-582a133a/) (Native Biodata Consortium)
+* [Ann McCartney](https://www.linkedin.com/in/ann-mc-cartney-097a398b/) (Earth BioGenome Project) ABS mechanisms in support of the Nagoya Protocol
 
 * Afternoon: Standards Development Workshops
 
