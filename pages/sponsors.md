@@ -29,6 +29,7 @@ ___
  ![BronzeSponsor](./images/BronzeSponsor-500.png)
 
 [ ![MicrobiomeBronze](./images/microbiome_logo-250.jpg) ](https://microbiomejournal.biomedcentral.com/)	
+[ ![Auckland Genomics](./images/AucklandGenomicsLogo_.jpg) ](https://www.genomics.auckland.ac.nz/)
 
 
 ___
