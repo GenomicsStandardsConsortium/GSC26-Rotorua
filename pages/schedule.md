@@ -39,6 +39,7 @@ Day 3 includes a dedicated session on Omics in AI and Digital Twins, followed by
 * [John Deck](https://www.linkedin.com/in/john-deck-b068375/) (UC Berkeley) Genomic Observatories Metadatabase (GeOMe)
 * [Chris Meyer](https://www.linkedin.com/in/chris-meyer-9102414b/) (Smithsonian's National Museum of Natural History) Ocean Biomolecular Observing Network (OBON)
 * [Claire Rye](https://www.linkedin.com/in/claire-rye-b390bb66/) (University of Auckland, [Aotearoa Genomic Data Repository](https://data.agdr.org.nz/)); [Mik Black](https://www.otago.ac.nz/faculty-biomedical-sciences/expertise/profile?id=352) ([Genomics Aotearoa](https://www.genomics-aotearoa.org.nz/)); [Libby Liggins](https://profiles.auckland.ac.nz/libby-liggins) (University of Auckland) Sequence Repositories: Aotearoa Genomic Database
+* [Masanori Arita](https://www.nig.ac.jp/en/business/bsi/) (DNA Data Bank of Japan (DDBJ)) 
 * [Guy Cochrane](https://www.linkedin.com/in/guy-cochrane-b7291819/) (EMBL-EBI, Global Biodata Coalition) GBC: Role of data standards connecting data ecosystems
 * [Peter Woollard](https://www.linkedin.com/in/peterwoollard/) European Bioinformatics Institute EMBL-EBI
 * [Seungwoo Hwang](https://oak.kribb.re.kr/researcher-profile?ep=488&type=all&sort_by=dc.date.issued_dt&order=DESC) (Korea Bioinformation Center)
