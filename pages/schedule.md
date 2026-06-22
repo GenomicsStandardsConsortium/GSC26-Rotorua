@@ -17,7 +17,7 @@ Day 3 includes a dedicated session on Omics in AI and Digital Twins, followed by
 * Keynote: [Amanda Black](https://researchers.lincoln.ac.nz/amanda.black) (Lincoln University) Indigenous Data Governance: Data Standards in Indigenous contexts 
 * Session Themes: Oceania genomics & Indigenous metadata; Access and benefit sharing and biocultural stewardship; Regulations
 * Speakers
-* [Kalinda Griffiths](https://www.linkedin.com/in/kalinda-griffiths/) (University of Melbourne) Australian Indigenous Genomics
+* [Kalinda Griffiths](https://www.linkedin.com/in/kalinda-griffiths/) (Flinders University) Australian Indigenous Genomics
 * [Leke Hutchins](https://www.lekehutchins.com/) (Arizona State University) Applying Indigenous Data Sovereignty Principles
 * [Cas Sedran-Price](https://www.linkedin.com/in/dr-cas-sedran-price-ab436861/) (University Centre for Rural Health) CARE Principles
 * [Hop Hopkins](https://www.linkedin.com/in/hophopkins/) Local Contexts Executive Director
