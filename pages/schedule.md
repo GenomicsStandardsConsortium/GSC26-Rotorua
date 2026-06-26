@@ -9,7 +9,7 @@ Day 1 focuses on genomics in Indigenous contexts, including case studies, and a 
 Day 2 will cover: new and evolving standards for genomic data; and different genomic data repository models, including those that are access‑controlled and federated. A panel discussion addressing how these distributed repositories can maintain interoperability and be machine-actionable will close Day 2. 
 Day 3 includes a dedicated session on Omics in AI and Digital Twins, followed by a session on Building Trustworthy Omic Data Ecosystems. A featured speaker will be Dr. Nicole Edwards, whose recent Nature Neuroscience paper theorizes how Indigenous communities can shape what genomic data AI systems access and how AI algorithms are designed. Her work advocates for federated access-controlled repositories and federated AI‑learning approaches, ideally aligned with Indigenous‑led “sovereign AI” frameworks. We also hope to include presenters (pending funding) that can speak to how standards such as MIxS may evolve to better support AI‑driven analyses and allow genomic data to contribute to large‑scale Digital Twin initiatives.
 
-# Agenda
+# Agenda (8:30 am - 5:00 pm)
 ## Day 1: Wednesday August 12 - Genomic Standards in Indigenous contexts
 * Themes: Oceania genomics & Indigenous metadata; Access and benefit sharing and biocultural stewardship; Regulations
 * mihi whakatau (formal Māori welcome ceremony)
