@@ -69,6 +69,7 @@ Day 3 includes a dedicated session on Omics in AI and Digital Twins, followed by
 ![Silver1](./images/ONT_3Line_Black-125.png)
 ![Silver2](./images/GA-Wide-white-125.png)
 ![Bronze1](./images/microbiome_logo-125.jpg) 
+![Bronze1](./images/AucklandGenomicsLogo_.jpg)
 
 
 [ ![GenSC](../assets/img/gsc_logo_sml.png) ](https://www.gensc.org/)
