@@ -4,7 +4,7 @@ title: Online Agenda
 cover-img: /assets/img/schedule-banner.png
 share-img: /assets/img/
 ---
-[GSC26 Agenda Booklet](https://drive.google.com/file/d/1gSkEH1wrPefJGQdNrLvKkc8GKKAhzJD4/view?usp=drive_link) Click here to view session time and presentation titles.
+[GSC26 Agenda Booklet](https://drive.google.com/file/d/1gSkEH1wrPefJGQdNrLvKkc8GKKAhzJD4/view?usp=drive_link) Click here to view session times, speakers and presentation titles.
 
 AI‑readiness is becoming a defining requirement for genomic data standards, and this theme will run throughout the three days of GSC2026. The meeting will bring together researchers, data stewards, and standards developers to examine how genomic repositories can support responsible, interoperable, and culturally grounded uses of AI. 
 Day 1 focuses on genomics in Indigenous contexts, including case studies, and a panel on developing data standards that maintain Indigenous metadata to support governance and data sovereignty. 
